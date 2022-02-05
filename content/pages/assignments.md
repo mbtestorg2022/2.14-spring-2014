@@ -12,16 +12,117 @@ Problems referring to FPE are from the course textbook:
 
 Students in the graduate version of the course (2.140) are assigned extra problems. Undergraduate students (2.14) are welcome to work these, but no extra credit is given.
 
-| PROBLEM SETS | DUE DATES |
-| --- | --- |
-| [Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit2_14s14_problem_set_1) | Lecture 3 |
-| ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit2_14s14_problem_set_2) | Lecture 5 |
-| ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit2_14s14_problem_set_3) | Lecture 7 |
-| ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit2_14s14_problem_set_4) | Lecture 9 |
-| ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Problem Set 5 (PDF)]({{< baseurl >}}/resources/mit2_14s14_problem_set_5) | Quiz 1 |
-| ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Problem Set 6 (PDF)]({{< baseurl >}}/resources/mit2_14s14_problem_set_6) | Lecture 12 |
-| ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Problem Set 7 (PDF)]({{< baseurl >}}/resources/mit2_14s14_problem_set_7) | Lecture 14 |
-| ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Problem Set 8 (PDF)]({{< baseurl >}}/resources/mit2_14s14_problem_set_8) | Lecture 16 |
-| ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Problem Set 9 (PDF)]({{< baseurl >}}/resources/mit2_14s14_problem_set_9) | Lecture 18 |
-| [Problem Set 10 (PDF)]({{< baseurl >}}/resources/mit2_14s14_problem_set_10) | Lecture 19 |
-| [Problem Set 11 (PDF)]({{< baseurl >}}/resources/mit2_14s14_problem_set_11) | Quiz 2
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PROBLEM SETS
+{{< thclose >}}
+{{< thopen >}}
+DUE DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit2_14s14_problem_set_1)
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture 3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit2_14s14_problem_set_2)
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture 5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit2_14s14_problem_set_3)
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture 7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit2_14s14_problem_set_4)
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture 9
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Problem Set 5 (PDF)]({{< baseurl >}}/resources/mit2_14s14_problem_set_5)
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Problem Set 6 (PDF)]({{< baseurl >}}/resources/mit2_14s14_problem_set_6)
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture 12
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Problem Set 7 (PDF)]({{< baseurl >}}/resources/mit2_14s14_problem_set_7)
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture 14
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Problem Set 8 (PDF)]({{< baseurl >}}/resources/mit2_14s14_problem_set_8)
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture 16
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Problem Set 9 (PDF)]({{< baseurl >}}/resources/mit2_14s14_problem_set_9)
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture 18
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 10 (PDF)]({{< baseurl >}}/resources/mit2_14s14_problem_set_10)
+{{< tdclose >}}
+{{< tdopen >}}
+Lecture 19
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 11 (PDF)]({{< baseurl >}}/resources/mit2_14s14_problem_set_11)
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 2
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
