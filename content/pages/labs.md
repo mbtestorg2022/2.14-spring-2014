@@ -27,7 +27,7 @@ ADDITIONAL FILES
 0
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Installing LabVIEW (PDF)]({{< baseurl >}}/resources/mit2_14s14_lab_0_soft)
+[Installing LabVIEW (PDF)]({{< baseurl >}}/resources/mit2_14s14_lab_0_soft)
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -39,7 +39,7 @@ ADDITIONAL FILES
 1
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[On / Off and Linear Control (PDF)]({{< baseurl >}}/resources/mit2_14s14_lab_1)
+[On / Off and Linear Control (PDF)]({{< baseurl >}}/resources/mit2_14s14_lab_1)
 {{< tdclose >}}
 {{< tdopen >}}
 [Lab 1 Files (ZIP - 3.4MB)]({{< baseurl >}}/resources/lab1-uractlr) (This zip folder contains: 1 .aliases file, 1 .lvlps file, 1 .lvproj file, and 1 .vi file)
@@ -53,9 +53,9 @@ ADDITIONAL FILES
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Thermal Control Loop (PDF)]({{< baseurl >}}/resources/mit2_14s14_lab_2)
+[Thermal Control Loop (PDF)]({{< baseurl >}}/resources/mit2_14s14_lab_2)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Thermal Example (PDF)]({{< baseurl >}}/resources/mit2_14s14_lab_2-therex)
+[Thermal Example (PDF)]({{< baseurl >}}/resources/mit2_14s14_lab_2-therex)
 
 
 {{< tdclose >}}
@@ -89,11 +89,11 @@ ADDITIONAL FILES
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Op-Amp Circuit (PDF)]({{< baseurl >}}/resources/mit2_14s14_lab_4)
+[Op-Amp Circuit (PDF)]({{< baseurl >}}/resources/mit2_14s14_lab_4)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Pencast with Circuit Analysis (PDF - 1.7MB)]({{< baseurl >}}/resources/mit2_14s14_lab_4-pncst-sup)
+[Pencast with Circuit Analysis (PDF - 1.7MB)]({{< baseurl >}}/resources/mit2_14s14_lab_4-pncst-sup)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[A741 Spec Sheet (PDF)](http://www.ti.com/lit/ds/symlink/ua741.pdf)
+[A741 Spec Sheet (PDF)](http://www.ti.com/lit/ds/symlink/ua741.pdf)
 
 
 {{< tdclose >}}
@@ -107,7 +107,7 @@ No additional files for this lab.
 5
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Current-Control Loop (PDF)]({{< baseurl >}}/resources/mit2_14s14_lab_5)
+[Current-Control Loop (PDF)]({{< baseurl >}}/resources/mit2_14s14_lab_5)
 {{< tdclose >}}
 {{< tdopen >}}
 No additional files for this lab.

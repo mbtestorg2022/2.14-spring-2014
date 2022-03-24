@@ -15,7 +15,7 @@ We do not give you exact specifications for the servo performance. Rather, you a
 
 The problem starts with designing the controller for the current loop, and then moves on to design of the FTS position controller.
 
-Read the entire ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Final Design Project (PDF)]({{< baseurl >}}/resources/mit2_14s14_fin_desgn_prob).
+Read the entire [Final Design Project (PDF)]({{< baseurl >}}/resources/mit2_14s14_fin_desgn_prob).
 
 Additional files
 
