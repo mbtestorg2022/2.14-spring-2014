@@ -9,7 +9,7 @@ Textbook
 
 \[FPE\] = Franklin, Gene F., J. David Powell, and Abbas Emami-Naeini. _Feedback Control of Dynamic Systems_. 6th ed. Prentice Hall, 2009. ISBN: 9780136019695.
 
-\[JKR\] = Roberge, James K. [_Operational Amplifiers: Theory and Practice_](/resources/res-6-010-electronic-feedback-systems-spring-2013/textbook). John Wiley & Sons. 1975.  
+\[JKR\] = Roberge, James K. [_Operational Amplifiers: Theory and Practice_](/courses/res-6-010-electronic-feedback-systems-spring-2013/pages/textbook). John Wiley & Sons. 1975.  
 This book is available as a free electronic textbook from Prof. James Roberge and MIT OpenCourseWare.
 
 {{< tableopen >}}
@@ -104,7 +104,7 @@ Lec 11-14
 
 \[JKR\] Chapter 2: Properties and Modeling of Feedback Systems.
 
-*   [2.3.2 Effect of Feedback on Nonlinearities (PDF - 1.6MB)](/resources/res-6-010-electronic-feedback-systems-spring-2013/textbook/MITRES_6-010S13_chap02.pdf) 
+*   [2.3.2 Effect of Feedback on Nonlinearities (PDF - 1.6MB)](/courses/res-6-010-electronic-feedback-systems-spring-2013/resources/mitres_6-010s13_chap02) 
 
 
 {{< tdclose >}}
@@ -119,7 +119,7 @@ Lec 15-16
 
 \[JKR\] Chapter 3: Linear System Response.
 
-*   [3.5 Relationships Between Transient Response and Frequency Response (PDF - 1.8MB)](/resources/res-6-010-electronic-feedback-systems-spring-2013/textbook/MITRES_6-010S13_chap03.pdf) 
+*   [3.5 Relationships Between Transient Response and Frequency Response (PDF - 1.8MB)](/courses/res-6-010-electronic-feedback-systems-spring-2013/resources/mitres_6-010s13_chap03) 
 
 
 {{< tdclose >}}

@@ -23,7 +23,7 @@ Textbooks
 
 Franklin, Gene F., J. David Powell, and Abbas Emami-Naeini. _Feedback Control of Dynamic Systems_. 6th ed. Prentice Hall, 2009. ISBN: 9780136019695.
 
-Roberge, James K. [_Operational Amplifiers: Theory and Practice_](/resources/res-6-010-electronic-feedback-systems-spring-2013/textbook). John Wiley & Sons. 1975.  
+Roberge, James K. [_Operational Amplifiers: Theory and Practice_](/courses/res-6-010-electronic-feedback-systems-spring-2013/pages/textbook). John Wiley & Sons. 1975.  
 This book is available as a free electronic textbook from Prof. James Roberge and MIT OpenCourseWare.
 
 Readings from the textbook are listed in the [Readings]({{< baseurl >}}/pages/readings) section.
